@@ -1,2 +1,2 @@
-export const link = "https://docs.google.com/spreadsheets/d/1qgIHTG-FNIP1xQwnUrYPloBj4ZFPlUy2yiG_0994vsA/edit?gid=683969611#gid=683969611";
-export const form = "https://facebook.com";
+export const link = "1aDm2WixXtMhRxWzAQBU_TDjc-RcQq7hhZJ0bawGWOlI";
+export const form = "https://forms.gle/cXXrG9ZuSwaRCfar8";
